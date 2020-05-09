@@ -1,0 +1,63 @@
+*{
+   margin: 0;
+   padding: 0;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: #f6f6f6;
+}
+.header{
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 30px;
+}
+.kira{
+    background-color: #7fa1ff;
+    padding: 5px 30px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: black;
+}
+a{
+    text-decoration: none;
+}
+.kananan{
+    background-color: rgb(0, 255, 0);
+    padding: 5px 30px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: black;
+}
+.content-prof{
+    width: 40%;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 30px 20px;
+}
+.gambar-prof{
+    width: 170px;
+    height: 170px;
+    margin: 0 auto;
+    border-radius: 50%;
+
+    border: 1px solid black;
+}
+.input-prof{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 15px;
+    padding-left: 1px;
+    border: none;
+    width: 100%;
+}
+.isi-p-prof{
+    margin-top: 8px;
+    font-size: 13px;
+    color: #999999;
+}
+.kananan input {
+    background-color: rgb(0, 255, 0);
+    font-size: 15px;
+    border: none;
+}

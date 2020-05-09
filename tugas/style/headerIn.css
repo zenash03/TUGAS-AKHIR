@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.black{
+    width: 100%;
+    height: 10%;
+    background-color: black;
+    opacity: 0.2;
+    position: absolute;
+    top: -0;
+    z-index: -20;
+}
+.logo{
+    font-size: 40px;
+    margin-left: 50px;
+}
+ul{
+    display: flex;
+    list-style: none;
+    margin-right: 20px;
+}
+li{
+    margin: 20px;
+}
+ul li .satu{
+    text-decoration: none;
+    color: white;
+    background-color: #7FA1ff;
+    padding: 8px 30px;
+    border-radius: 10px;
+}
+.satu.khusus{
+    color: #7FA1FF;
+    background-color: #fff;
+}
+.satu:hover{
+    color: #7FA1FF;
+    background-color: #fff;
+    box-shadow: 0 0 5px grey;
+    transition: 0.8s ease-in-out;
+}
+.khusus:hover{
+    color: white;
+    background-color: #4973cb;
+}
+a{
+    text-decoration: none;
+    color: black;
+    transition: 0.4s;
+}
+a:hover{
+    color: #4973cb;
+}

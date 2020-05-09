@@ -1,0 +1,184 @@
+.container{
+    background-image: url('../img/job1.jpg');
+    width: 100%;
+    height: 90%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.content-tulisan{
+    position: absolute;
+    bottom: 30%;
+    left: 20px;
+    color: white;
+}
+.content-tulisan h1{
+    font-size: 50px;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+.content-tulisan p{
+    margin-bottom: 20px;
+}
+.makeblack{
+    background-color: black;
+    opacity: 0.2;
+    width: 100%;
+    height: 555px;
+}
+.content-tulisan p a{
+    color: white;
+    background-color: #7fa1ff;
+    text-decoration: none;
+    padding: 8px 20px;
+    border-radius: 10px;
+}
+.container-2{
+    margin-top: 50px;
+}
+.container-2 .fefe{
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.kotak h1{
+    font-size: 30px;
+}
+.lolol{
+    text-align: center;
+    margin-bottom: 60px;
+    opacity: 0.5;
+}
+.content-2{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.kotak{
+    text-align: center;  
+    border: 5px solid #7fa1ff;  
+    max-width: 270px;
+    border-radius: 40px;
+    padding: 20px 10px;
+    margin-top: 50px;
+}
+.tulisan{
+    margin-top: 40px;
+}
+
+.kotak .bulat{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    border: 5px solid #7fa1ff;
+    position: absolute;
+    margin-top: -75px;
+    transform: translateX(82px);
+    background-color: #fff;
+}
+.kotak h1{
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+.kotak .margin-bb{
+    margin-bottom: 40px;
+}
+.learnmore{
+    color: #7fa1ff;
+
+}
+.container-3 h1{
+    font-size: 25px;
+    margin-top: 70px;
+    font-weight: 500;
+    text-align: center;
+    opacity: 0.8;
+    margin-bottom: 50px;
+}
+.column{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 30px;
+}
+.kotak-2{
+    border: 1px solid grey;
+    margin-bottom: 50px;
+    width: 300px;
+    height: 250px;
+}
+.img{
+    background-image: url("../img/web\ coding.jpeg");
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+.kotak-p{
+    padding: 20px;
+    text-align: center;
+    border: 1px solid grey;
+}
+.dua { 
+    background-image: url('../img/design\ grafis.jpg');
+}
+.tiga{
+    background-image: url('../img/logo0.jpeg');
+}
+.empat{
+    background-image: url('../img/digital\ marketing.jpeg');
+}
+.lima{
+    background-image: url('../img/phone.jpeg');
+}
+.enam{
+    background-image: url('../img/camera.jpeg');
+}
+
+
+.container-4 h1{
+    font-size: 25px;
+    margin-top: 70px;
+    font-weight: 500;
+    text-align: center;
+    opacity: 0.8;
+    margin-bottom: 50px;
+}
+.column-2{
+    display: flex;
+}
+.kotak-3{
+    max-width: 300px;
+    height: 200px;
+}
+.one{margin-left: 100px;     margin-right: 80px;}
+.two{margin-right: 80px;}
+.four{margin-left: 100px;    margin-right: 80px;}
+.bag-bawah{margin-top: 100px;}
+
+.desc{
+    margin-top: 30px;
+}
+.p3{
+    margin-left: 5px;
+}
+.bagian-atas{
+    display: flex;
+    justify-content: space-between;
+}
+.iconn{
+    background-image: url(../img/iconn/message.png);
+    width: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 20px;
+    margin-top: 2px;
+}
+.poin{    background-image: url(../img/iconn/coin.png);}
+.rak{    background-image: url(../img/iconn/orang-orang.png);}
+.kua{    background-image: url(../img/iconn/money.png);}
+.port{    background-image: url(../img/iconn/picture.png);}
