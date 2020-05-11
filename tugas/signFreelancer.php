@@ -23,7 +23,7 @@
 
 			<div class="container3">
 		            <div class="egoku">
-						<input type="submit" value="login" name='signup'>
+						<input type="submit" value="Sign in" name='signup'>
 		            </div>
 			</div>
 			<p>Have any account?? <a href="login.php" style="color: blue">Login Now</a></p>
